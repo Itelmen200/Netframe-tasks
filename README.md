@@ -34,5 +34,11 @@
    df -h
    ```
    
-  2).
+2). Add user and grand the sudo access wihtout password.
+
+   - Create file and change permissions for only sudo user access (read | write). 
+   - Writing an installation program bash script.
+   - Atom or other IDE.
+   - Checking program availability. 
+   - Use logical operators. (if, else etc)
 
