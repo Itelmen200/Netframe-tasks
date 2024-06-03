@@ -43,3 +43,15 @@
    - Checking program availability. 
    - Use logical operators. (if, else etc)
 
+   Add user and add to sudo group.
+   
+   To create a new user use:
+   ```sh
+   sudo adduser gleb
+   ```
+   
+   To make it a member of the sudo group use:
+   ```sh
+   sudo usermod -aG sudo gleb
+   ```
+
